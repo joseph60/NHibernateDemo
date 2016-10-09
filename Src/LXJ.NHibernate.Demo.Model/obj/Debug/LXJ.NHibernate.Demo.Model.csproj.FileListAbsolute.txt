@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\LXJ.NHibernate.Demo.Model\bin\Debug\LXJ.NHibernate.Demo.Model.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\LXJ.NHibernate.Demo.Model\bin\Debug\LXJ.NHibernate.Demo.Model.pdb
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\LXJ.NHibernate.Demo.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\LXJ.NHibernate.Demo.Model\obj\Debug\LXJ.NHibernate.Demo.Model.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\LXJ.NHibernate.Demo.Model\obj\Debug\LXJ.NHibernate.Demo.Model.pdb
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.Model\bin\Debug\LXJ.NHibernate.Demo.Model.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.Model\bin\Debug\LXJ.NHibernate.Demo.Model.pdb
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.Model\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.Model\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.Model\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.Model\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.Model\obj\Debug\LXJ.NHibernate.Demo.Model.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.Model\obj\Debug\LXJ.NHibernate.Demo.Model.pdb

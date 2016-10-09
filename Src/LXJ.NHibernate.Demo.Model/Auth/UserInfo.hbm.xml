@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="LXJ.NHibernate.Demo.Model" namespace="LXJ.NHibernate.Demo.Model.Auth">
+
+	<class  name="LXJ.NHibernate.Demo.Model.Auth.UserInfo, LXJ.NHibernate.Demo.Model" table="Users">
+
+		<id name="USER_ID" column="USER_ID" type="String" length="32">
+			<generator class="assigned" />
+		</id>
+		<property name="USER_NAME" column="USER_NAME" type="String" length="50" not-null ="true"/>
+		<property name="PASSWORD" column="PASSWORD" type="String" length="32" not-null ="true"/>
+
+
+		<bag name="UserProfiles" inverse="true" lazy="true" cascade="all-delete-orphan">
+			<key column="USER_ID"/>
+			<one-to-many class="LXJ.NHibernate.Demo.Model.Auth.UserProfileInfo, LXJ.NHibernate.Demo.Model"/>
+		</bag>
+		
+	</class>
+
+</hibernate-mapping>

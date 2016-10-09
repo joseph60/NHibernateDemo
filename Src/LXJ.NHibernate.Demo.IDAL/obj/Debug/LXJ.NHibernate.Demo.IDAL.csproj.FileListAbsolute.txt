@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\LXJ.NHibernate.Demo.IDAL\bin\Debug\LXJ.NHibernate.Demo.IDAL.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\LXJ.NHibernate.Demo.IDAL\bin\Debug\LXJ.NHibernate.Demo.IDAL.pdb
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\LXJ.NHibernate.Demo.IDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\LXJ.NHibernate.Demo.IDAL\obj\Debug\LXJ.NHibernate.Demo.IDAL.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\LXJ.NHibernate.Demo.IDAL\obj\Debug\LXJ.NHibernate.Demo.IDAL.pdb
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\LXJ.NHibernate.Demo.IDAL\bin\Debug\LXJ.NHibernate.Demo.Model.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\LXJ.NHibernate.Demo.IDAL\bin\Debug\LXJ.NHibernate.Demo.Model.pdb
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.IDAL\bin\Debug\LXJ.NHibernate.Demo.IDAL.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.IDAL\bin\Debug\LXJ.NHibernate.Demo.IDAL.pdb
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.IDAL\bin\Debug\LXJ.NHibernate.Demo.Model.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.IDAL\bin\Debug\LXJ.NHibernate.Demo.Model.pdb
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.IDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.IDAL\obj\Debug\LXJ.NHibernate.Demo.IDAL.dll
+C:\Users\Administrator\Desktop\cnblogs\NHibernate\Demo\Src\LXJ.NHibernate.Demo.IDAL\obj\Debug\LXJ.NHibernate.Demo.IDAL.pdb

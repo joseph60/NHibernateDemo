@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="LXJ.NHibernate.Demo.Model" namespace="LXJ.NHibernate.Demo.Model.Auth">
+
+	<class  name="LXJ.NHibernate.Demo.Model.Auth.UserProfileInfo, LXJ.NHibernate.Demo.Model" table="UserProfiles">
+
+		<composite-id name="UserProfilePK" class="LXJ.NHibernate.Demo.Model.Auth.UserProfilePKInfo, LXJ.NHibernate.Demo.Model">
+			<key-property name="USER_ID" column="USER_ID" type="String" length="32" />
+			<key-property name="PROFILE_KEY" column="PROFILE_KEY" type="String" length="50" />
+		</composite-id>
+
+		<property name="PROFILE_VALUE" column="PROFILE_VALUE" type="String" length="100" not-null ="true"/>
+	</class>
+
+</hibernate-mapping>
