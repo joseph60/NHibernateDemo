@@ -1,20 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LXJ.NHibernate.Demo.IDAL", "LXJ.NHibernate.Demo.IDAL\LXJ.NHibernate.Demo.IDAL.csproj", "{81B59589-90EA-4869-AB89-73953E391D36}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LXJ.NHibernate.Demo.BLL", "LXJ.NHibernate.Demo.BLL\LXJ.NHibernate.Demo.BLL.csproj", "{EA756E6E-6431-4B00-96F6-10AB21588359}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LXJ.NHibernate.Demo.Model", "LXJ.NHibernate.Demo.Model\LXJ.NHibernate.Demo.Model.csproj", "{6B8FCEA4-2B20-4502-88A9-C90A7DB0CAB1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LXJ.NHibernate.Demo.DALFactory", "LXJ.NHibernate.Demo.DALFactory\LXJ.NHibernate.Demo.DALFactory.csproj", "{CC2F97CE-CE30-4792-8FB2-0373E73296CA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{8510FEE0-39E7-4030-AB90-72D22E0702D0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBUtility", "DBUtility\DBUtility.csproj", "{152A97CF-7489-4383-B043-16C55F56430F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LXJ.NHibernate.Demo.NhiDAL", "LXJ.NHibernate.Demo.NhiDAL\LXJ.NHibernate.Demo.NhiDAL.csproj", "{297EF9E8-2E69-43BC-A301-4B74DEC7F0D0}"
-EndProject
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{8BB8A126-0752-442F-9C5F-053E9F64EEAB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "relDLL", "relDLL", "{B3DC2893-0901-4806-AD79-4A5E79FCF071}"
@@ -30,9 +18,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "relDLL", "relDLL", "{B3DC28
 		..\refDLL\Remotion.Data.Linq.dll = ..\refDLL\Remotion.Data.Linq.dll
 	EndProjectSection
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LXJ.NHibernate.Demo.Web", "LXJ.NHibernate.Demo.Web", "{0AEE280B-394E-49D9-96C4-304D69955A12}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Config", "Config", "{8C12A6D1-E5B6-48F2-86DB-FF6D52995156}"
+	ProjectSection(SolutionItems) = preProject
+		..\Config\oracle.cfg.xml = ..\Config\oracle.cfg.xml
+		..\Config\sqlserver.cfg.xml = ..\Config\sqlserver.cfg.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LXJ.NHibernate.Demo.IDAL", "LXJ.NHibernate.Demo.IDAL\LXJ.NHibernate.Demo.IDAL.csproj", "{81B59589-90EA-4869-AB89-73953E391D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LXJ.NHibernate.Demo.BLL", "LXJ.NHibernate.Demo.BLL\LXJ.NHibernate.Demo.BLL.csproj", "{EA756E6E-6431-4B00-96F6-10AB21588359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LXJ.NHibernate.Demo.Model", "LXJ.NHibernate.Demo.Model\LXJ.NHibernate.Demo.Model.csproj", "{6B8FCEA4-2B20-4502-88A9-C90A7DB0CAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LXJ.NHibernate.Demo.DALFactory", "LXJ.NHibernate.Demo.DALFactory\LXJ.NHibernate.Demo.DALFactory.csproj", "{CC2F97CE-CE30-4792-8FB2-0373E73296CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{8510FEE0-39E7-4030-AB90-72D22E0702D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBUtility", "DBUtility\DBUtility.csproj", "{152A97CF-7489-4383-B043-16C55F56430F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LXJ.NHibernate.Demo.NhiDAL", "LXJ.NHibernate.Demo.NhiDAL\LXJ.NHibernate.Demo.NhiDAL.csproj", "{297EF9E8-2E69-43BC-A301-4B74DEC7F0D0}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LXJ.NHibernate.Demo.Web", "LXJ.NHibernate.Demo.Web\", "{0AEE280B-394E-49D9-96C4-304D69955A12}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFramework = "3.5"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
 		ProjectReferences = "{152A97CF-7489-4383-B043-16C55F56430F}|DBUtility.dll;{EA756E6E-6431-4B00-96F6-10AB21588359}|LXJ.NHibernate.Demo.BLL.dll;{297EF9E8-2E69-43BC-A301-4B74DEC7F0D0}|LXJ.NHibernate.Demo.NhiDAL.dll;{CC2F97CE-CE30-4792-8FB2-0373E73296CA}|LXJ.NHibernate.Demo.DALFactory.dll;{81B59589-90EA-4869-AB89-73953E391D36}|LXJ.NHibernate.Demo.IDAL.dll;{6B8FCEA4-2B20-4502-88A9-C90A7DB0CAB1}|LXJ.NHibernate.Demo.Model.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/LXJ.NHibernate.Demo.Web"
 		Debug.AspNetCompiler.PhysicalPath = "LXJ.NHibernate.Demo.Web\"
@@ -50,12 +58,6 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LXJ.NHibernate.Demo.Web", "
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "4770"
 		DefaultWebSiteLanguage = "Visual C#"
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Config", "Config", "{8C12A6D1-E5B6-48F2-86DB-FF6D52995156}"
-	ProjectSection(SolutionItems) = preProject
-		..\Config\oracle.cfg.xml = ..\Config\oracle.cfg.xml
-		..\Config\sqlserver.cfg.xml = ..\Config\sqlserver.cfg.xml
 	EndProjectSection
 EndProject
 Global
@@ -101,13 +103,13 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{81B59589-90EA-4869-AB89-73953E391D36} = {8BB8A126-0752-442F-9C5F-053E9F64EEAB}
 		{EA756E6E-6431-4B00-96F6-10AB21588359} = {8BB8A126-0752-442F-9C5F-053E9F64EEAB}
 		{6B8FCEA4-2B20-4502-88A9-C90A7DB0CAB1} = {8BB8A126-0752-442F-9C5F-053E9F64EEAB}
 		{CC2F97CE-CE30-4792-8FB2-0373E73296CA} = {8BB8A126-0752-442F-9C5F-053E9F64EEAB}
 		{8510FEE0-39E7-4030-AB90-72D22E0702D0} = {8BB8A126-0752-442F-9C5F-053E9F64EEAB}
 		{152A97CF-7489-4383-B043-16C55F56430F} = {8BB8A126-0752-442F-9C5F-053E9F64EEAB}
 		{297EF9E8-2E69-43BC-A301-4B74DEC7F0D0} = {8BB8A126-0752-442F-9C5F-053E9F64EEAB}
-		{81B59589-90EA-4869-AB89-73953E391D36} = {8BB8A126-0752-442F-9C5F-053E9F64EEAB}
 		{0AEE280B-394E-49D9-96C4-304D69955A12} = {8BB8A126-0752-442F-9C5F-053E9F64EEAB}
 	EndGlobalSection
 EndGlobal
